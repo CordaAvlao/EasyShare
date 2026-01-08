@@ -54,3 +54,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 👨‍💻 Author
 **CordaAvlao** - [GitHub Profile](https://github.com/CordaAvlao)
+
+---
+
+### ☕ Support the Project / Soutenir le projet
+
+If this tool has saved you hours of manual work and you'd like to support its development, feel free to buy me a coffee! Any support is greatly appreciated.
+
+Si cet outil vous a fait gagner des heures de travail manuel et que vous souhaitez soutenir son développement, n'hésitez pas à m'offrir un café ! Chaque geste est grandement apprécié.
+
+👉 [**Donate via PayPal / Faire un don via PayPal**](https://www.paypal.com/ncp/payment/NPGMPUL9N9TFQ)
+
+Created with ❤️ by **CordaAvlao** - 2026
